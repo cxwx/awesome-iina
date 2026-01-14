@@ -4,7 +4,7 @@ IINA is the modern media player for macOS.
 
 ## Contents
 
-- [Plugins](Plugins) 
+- [Plugins](#Plugins) 
 
 ## Plugins
 
