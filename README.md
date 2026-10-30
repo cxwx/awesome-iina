@@ -110,6 +110,7 @@ Plugins are written in JavaScript, packaged as `.iinaplgz`, and installed from I
 
 ### Playlists & Library
 
+- [aminozuur/iina-bookmarks-pro](https://github.com/aminozuur/iina-bookmarks-pro) — Bookmark moments with thumbs, jump between them, browse every video in a library, and save 5/10/30-second clips with ffmpeg. `⭐ 0 · 🗓 2026-10`
 - [CatCodeDanix/iina-playlist-pro](https://github.com/CatCodeDanix/iina-playlist-pro) — Manage local and online playlists. `⭐ 16 · 🗓 2026-10`
 - [dotWee/iina-playlist-sortings](https://github.com/dotWee/iina-playlist-sortings) — Extra playlist sorting options. `⭐ 9 · 🗓 2026-08`
 - [HowDidTheCatGetSoFat/iina-detached-playlist](https://github.com/HowDidTheCatGetSoFat/iina-detached-playlist) — Show the playlist in its own floating window. `⭐ 8 · 🗓 2026-07`
