@@ -37,7 +37,7 @@
 ## 官方资源
 
 - [iina.io](https://iina.io) — 官方网站。
-- [iina/iina](https://github.com/iina/iina) — IINA 源代码。 `⭐ 46915 · 🗓 2026-10`
+- [iina/iina](https://github.com/iina/iina) — IINA 源代码。 `⭐ 46981 · 🗓 2026-11`
 - [Plugin Center](https://iina.io/plugins/) — 官方插件目录，可在 IINA 的插件管理器中直接安装。
 - [docs.iina.io](https://docs.iina.io/) — 官方插件 API 文档。
 - [GitHub Discussions](https://github.com/iina/iina/discussions) — 问答、功能讨论与版本反馈。
@@ -69,10 +69,10 @@ brew install --cask iina
 
 - [ada-bee/jellyfin-iina](https://github.com/ada-bee/jellyfin-iina) — 浏览并观看 Jellyfin 服务器上的内容。 `⭐ 31 · 🗓 2026-10`
 - [ada-bee/youtube-iina](https://github.com/ada-bee/youtube-iina) — 在侧边栏浏览并观看 YouTube 视频。 `⭐ 9 · 🗓 2026-02`
-- [Arnav12S/iina-contentplay](https://github.com/Arnav12S/iina-contentplay) — 搜索电影/剧集，通过 Stremio 解析 Real-Debrid 链接，整季作为播放列表播放。 `⭐ 3 · 🗓 2026-10`
-- [DTTerastar/iina-plugin-channels](https://github.com/DTTerastar/iina-plugin-channels) — IPTV 频道浏览器：M3U 播放列表，支持搜索、分组和 XMLTV 节目单。 `⭐ 6 · 🗓 2026-10`
-- [mhajder/iina-jellyfin](https://github.com/mhajder/iina-jellyfin) — Jellyfin 媒体浏览器侧边栏，支持自动下载字幕。 `⭐ 88 · 🗓 2026-10`
-- [ozykhan/iina-airplay](https://github.com/ozykhan/iina-airplay) — 通过 AirPlay 将当前视频投到 Apple TV，IINA 变身遥控器。 `⭐ 38 · 🗓 2026-10`
+- [Arnav12S/iina-contentplay](https://github.com/Arnav12S/iina-contentplay) — 搜索电影/剧集，通过 Stremio 解析 Real-Debrid 链接，整季作为播放列表播放。 `⭐ 4 · 🗓 2026-11`
+- [DTTerastar/iina-plugin-channels](https://github.com/DTTerastar/iina-plugin-channels) — IPTV 频道浏览器：M3U 播放列表，支持搜索、分组和 XMLTV 节目单。 `⭐ 6 · 🗓 2026-11`
+- [mhajder/iina-jellyfin](https://github.com/mhajder/iina-jellyfin) — Jellyfin 媒体浏览器侧边栏，支持自动下载字幕。 `⭐ 89 · 🗓 2026-11`
+- [ozykhan/iina-airplay](https://github.com/ozykhan/iina-airplay) — 通过 AirPlay 将当前视频投到 Apple TV，IINA 变身遥控器。 `⭐ 40 · 🗓 2026-10`
 - [qydxyx/iina-webdav](https://github.com/qydxyx/iina-webdav) — 连接 WebDAV 服务器，浏览媒体并将文件或文件夹加入播放列表。 `⭐ 0 · 🗓 2026-10`
 
 ### 字幕
@@ -95,7 +95,7 @@ brew install --cask iina
 - [nastarandarjani/iina-pip-toggle](https://github.com/nastarandarjani/iina-pip-toggle) — 在画中画与全屏之间切换。 `⭐ 9 · 🗓 2026-04`
 - [pangziqiang/iina-auto-skip](https://github.com/pangziqiang/iina-auto-skip) — 通过拖拽标记自动跳过片头片尾。 `⭐ 4 · 🗓 2026-10`
 - [pparanoiidd/iina-skip-intro](https://github.com/pparanoiidd/iina-skip-intro) — 检测并跳过片头、回顾和 Staff 片尾。 `⭐ 20 · 🗓 2026-10`
-- [Tommy12356F/iina-hold-to-speed](https://github.com/Tommy12356F/iina-hold-to-speed) — 按住空格以 2 倍速播放，就像 YouTube 一样。 `⭐ 15 · 🗓 2026-06`
+- [Tommy12356F/iina-hold-to-speed](https://github.com/Tommy12356F/iina-hold-to-speed) — 按住空格以 2 倍速播放，就像 YouTube 一样。 `⭐ 15 · 🗓 2026-10`
 - [treehog2/iina-absave-plugin](https://github.com/treehog2/iina-absave-plugin) — 保存 AB 循环。 `⭐ 5 · 🗓 2025-11`
 - [Zain-Imam/iina-episode-info](https://github.com/Zain-Imam/iina-episode-info) — 暂停时显示 TMDB 剧集/电影信息，内置字幕搜索。 `⭐ 12 · 🗓 2026-10`
 
@@ -123,14 +123,14 @@ brew install --cask iina
 
 ### 弹幕
 
-- [karappo-yu/iina-plugin-danmaku-cosmos](https://github.com/karappo-yu/iina-plugin-danmaku-cosmos) — Niconico/Bilibili/DanDanPlay 弹幕，CSS 与 Canvas 双渲染，支持 Comment Art 与样式预设。 `⭐ 15 · 🗓 2026-09`
+- [karappo-yu/iina-plugin-danmaku-cosmos](https://github.com/karappo-yu/iina-plugin-danmaku-cosmos) — Niconico/Bilibili/DanDanPlay 弹幕，CSS 与 Canvas 双渲染，支持 Comment Art 与样式预设。 `⭐ 16 · 🗓 2026-09`
 - [xjbeta/iina-plugin-danmaku](https://github.com/xjbeta/iina-plugin-danmaku) — 在画面上叠加弹幕。 `⭐ 24 · 🗓 2026-09`
 
 ### 语言学习
 
 - [afn478/iinatan](https://github.com/afn478/iinatan) — 在 IINA 里查词典、挖 Anki 生词卡。 `⭐ 9 · 🗓 2026-10`
 - [AkihaZhang/hoshitan](https://github.com/AkihaZhang/hoshitan) — 实验性字幕查词与 Anki 制卡。 `⭐ 4 · 🗓 2026-06`
-- [alyssabedard/mpv2anki](https://github.com/alyssabedard/mpv2anki) — 用于 Anki 制卡的 mpv 脚本：自动截取字幕、音频片段和截图。 `⭐ 20 · 🗓 2025-10`
+- [alyssabedard/mpv2anki](https://github.com/alyssabedard/mpv2anki) — 用于 Anki 制卡的 mpv 脚本：自动截取字幕、音频片段和截图。 `⭐ 20 · 🗓 2025-10` 💤
 - [kerim/iina-clickable-subtitles](https://github.com/kerim/iina-clickable-subtitles) — 点击字幕中的单词，用 macOS"查询"取词。 `⭐ 16 · 🗓 2025-11`
 - [polyscript-app/polyplugin-release](https://github.com/polyscript-app/polyplugin-release) — PolyScript：双字幕、悬停词典与 AI 辅助翻译。 `⭐ 2 · 🗓 2026-10`
 - [s4ysolutions/iina-verba](https://github.com/s4ysolutions/iina-verba) — 选中字幕里的单词按 A，加入你的 Verba 生词本。 `⭐ 0 · 🗓 2026-10`
@@ -159,15 +159,15 @@ brew install --cask iina
 
 ## 工具与脚本
 
-- [kjtsune/embyToLocalPlayer](https://github.com/kjtsune/embyToLocalPlayer) — 让 Emby/Jellyfin/Plex 调用本地播放器（含 IINA）播放，并回传播放进度。 `⭐ 1457 · 🗓 2026-10`
-- [LuckyPuppy514/external-player](https://github.com/LuckyPuppy514/external-player) — 浏览器油猴脚本，把网页视频投递到外部播放器。 `⭐ 379 · 🗓 2025-11`
+- [kjtsune/embyToLocalPlayer](https://github.com/kjtsune/embyToLocalPlayer) — 让 Emby/Jellyfin/Plex 调用本地播放器（含 IINA）播放，并回传播放进度。 `⭐ 1462 · 🗓 2026-10`
+- [LuckyPuppy514/external-player](https://github.com/LuckyPuppy514/external-player) — 浏览器油猴脚本，把网页视频投递到外部播放器。 `⭐ 382 · 🗓 2025-11`
 - [n3d1117/acestream-iina](https://github.com/n3d1117/acestream-iina) — 在 macOS 上用 IINA 播放 Ace Stream。 `⭐ 29 · 🗓 2019-11` 💤
 - [fullmetalsheep/mpv-iina-scripts](https://github.com/fullmetalsheep/mpv-iina-scripts) — 为 IINA 制作/魔改的 mpv Lua 脚本合集。 `⭐ 19 · 🗓 2018-10` 💤
 - [wpdevelopment11/remote_mpv](https://github.com/wpdevelopment11/remote_mpv) — 通过 HTTP 远程控制 mpv/IINA 播放，手机或其他电脑均可。 `⭐ 5 · 🗓 2026-06`
 
 ## Fork 版本
 
-- [xjbeta/iina-plus](https://github.com/xjbeta/iina-plus) — 增强弹幕支持（bilibili 等）的 IINA 分支。 `⭐ 1391 · 🗓 2026-09`
+- [xjbeta/iina-plus](https://github.com/xjbeta/iina-plus) — 增强弹幕支持（bilibili 等）的 IINA 分支。 `⭐ 1392 · 🗓 2026-09`
 
 ## 插件开发
 
@@ -182,7 +182,7 @@ brew install --cask iina
 
 - [IINA（维基百科）](https://en.wikipedia.org/wiki/IINA) — 背景与历史。
 - [mpv 手册](https://mpv.io/manual/master/) — IINA 的高级设置暴露了大部分 mpv 选项，mpv 手册是权威参考。
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — IINA 在线播放及许多插件的底层依赖。 `⭐ 202293 · 🗓 2026-10`
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — IINA 在线播放及许多插件的底层依赖。 `⭐ 204638 · 🗓 2026-10`
 
 ## 参与贡献
 

@@ -35,7 +35,7 @@ English | [简体中文](README.zh-CN.md) (community translation — may lag beh
 ## Official Resources
 
 - [iina.io](https://iina.io) — Official website.
-- [iina/iina](https://github.com/iina/iina) — Source code of IINA. `⭐ 46915 · 🗓 2026-10`
+- [iina/iina](https://github.com/iina/iina) — Source code of IINA. `⭐ 46981 · 🗓 2026-11`
 - [Plugin Center](https://iina.io/plugins/) — Official curated plugin directory, installed directly from IINA's plugin manager.
 - [docs.iina.io](https://docs.iina.io/) — Official plugin API documentation.
 - [GitHub Discussions](https://github.com/iina/iina/discussions) — Q&A, feature ideas and release feedback.
@@ -67,10 +67,10 @@ Plugins are written in JavaScript, packaged as `.iinaplgz`, and installed from I
 
 - [ada-bee/jellyfin-iina](https://github.com/ada-bee/jellyfin-iina) — Browse and watch content from your Jellyfin server. `⭐ 31 · 🗓 2026-10`
 - [ada-bee/youtube-iina](https://github.com/ada-bee/youtube-iina) — Browse and watch YouTube videos in a sidebar. `⭐ 9 · 🗓 2026-02`
-- [Arnav12S/iina-contentplay](https://github.com/Arnav12S/iina-contentplay) — Search movies/series, resolve Real-Debrid streams via Stremio, then play a whole season as a playlist. `⭐ 3 · 🗓 2026-10`
-- [DTTerastar/iina-plugin-channels](https://github.com/DTTerastar/iina-plugin-channels) — IPTV channel browser: M3U playlists with search, groups and an XMLTV now/next guide. `⭐ 6 · 🗓 2026-10`
-- [mhajder/iina-jellyfin](https://github.com/mhajder/iina-jellyfin) — Jellyfin media browser sidebar with automatic subtitle downloading. `⭐ 88 · 🗓 2026-10`
-- [ozykhan/iina-airplay](https://github.com/ozykhan/iina-airplay) — Cast the current file to an Apple TV over AirPlay; IINA stays the remote. `⭐ 38 · 🗓 2026-10`
+- [Arnav12S/iina-contentplay](https://github.com/Arnav12S/iina-contentplay) — Search movies/series, resolve Real-Debrid streams via Stremio, then play a whole season as a playlist. `⭐ 4 · 🗓 2026-11`
+- [DTTerastar/iina-plugin-channels](https://github.com/DTTerastar/iina-plugin-channels) — IPTV channel browser: M3U playlists with search, groups and an XMLTV now/next guide. `⭐ 6 · 🗓 2026-11`
+- [mhajder/iina-jellyfin](https://github.com/mhajder/iina-jellyfin) — Jellyfin media browser sidebar with automatic subtitle downloading. `⭐ 89 · 🗓 2026-11`
+- [ozykhan/iina-airplay](https://github.com/ozykhan/iina-airplay) — Cast the current file to an Apple TV over AirPlay; IINA stays the remote. `⭐ 40 · 🗓 2026-10`
 - [qydxyx/iina-webdav](https://github.com/qydxyx/iina-webdav) — Connect to a WebDAV server, browse media, and add files or folders to the playlist. `⭐ 0 · 🗓 2026-10`
 
 ### Subtitles & Captions
@@ -93,7 +93,7 @@ Plugins are written in JavaScript, packaged as `.iinaplgz`, and installed from I
 - [nastarandarjani/iina-pip-toggle](https://github.com/nastarandarjani/iina-pip-toggle) — Toggle Picture-in-Picture to fullscreen. `⭐ 9 · 🗓 2026-04`
 - [pangziqiang/iina-auto-skip](https://github.com/pangziqiang/iina-auto-skip) — Automatically skip intro and outro sections with a drag-to-set overlay. `⭐ 4 · 🗓 2026-10`
 - [pparanoiidd/iina-skip-intro](https://github.com/pparanoiidd/iina-skip-intro) — Detect and skip intros, recaps and credits. `⭐ 20 · 🗓 2026-10`
-- [Tommy12356F/iina-hold-to-speed](https://github.com/Tommy12356F/iina-hold-to-speed) — Hold Space to play at 2× speed, just like YouTube. `⭐ 15 · 🗓 2026-06`
+- [Tommy12356F/iina-hold-to-speed](https://github.com/Tommy12356F/iina-hold-to-speed) — Hold Space to play at 2× speed, just like YouTube. `⭐ 15 · 🗓 2026-10`
 - [treehog2/iina-absave-plugin](https://github.com/treehog2/iina-absave-plugin) — Save AB loops. `⭐ 5 · 🗓 2025-11`
 - [Zain-Imam/iina-episode-info](https://github.com/Zain-Imam/iina-episode-info) — TMDB episode/movie info on pause, with built-in subtitle search. `⭐ 12 · 🗓 2026-10`
 
@@ -110,7 +110,7 @@ Plugins are written in JavaScript, packaged as `.iinaplgz`, and installed from I
 
 ### Playlists & Library
 
-- [aminozuur/iina-bookmarks-pro](https://github.com/aminozuur/iina-bookmarks-pro) — Bookmark moments with thumbs, jump between them, browse every video in a library, and save 5/10/30-second clips with ffmpeg. `⭐ 0 · 🗓 2026-10`
+- [aminozuur/iina-bookmarks-pro](https://github.com/aminozuur/iina-bookmarks-pro) — Bookmark moments with thumbs, jump between them, browse every video in a library, and save 5/10/30-second clips with ffmpeg. `⭐ 1 · 🗓 2026-10`
 - [CatCodeDanix/iina-playlist-pro](https://github.com/CatCodeDanix/iina-playlist-pro) — Manage local and online playlists. `⭐ 16 · 🗓 2026-10`
 - [dotWee/iina-playlist-sortings](https://github.com/dotWee/iina-playlist-sortings) — Extra playlist sorting options. `⭐ 9 · 🗓 2026-08`
 - [HowDidTheCatGetSoFat/iina-detached-playlist](https://github.com/HowDidTheCatGetSoFat/iina-detached-playlist) — Show the playlist in its own floating window. `⭐ 8 · 🗓 2026-07`
@@ -122,14 +122,14 @@ Plugins are written in JavaScript, packaged as `.iinaplgz`, and installed from I
 
 ### Danmaku
 
-- [karappo-yu/iina-plugin-danmaku-cosmos](https://github.com/karappo-yu/iina-plugin-danmaku-cosmos) — Niconico/Bilibili/DanDanPlay danmaku with dual CSS & Canvas rendering, Comment Art support and style presets. `⭐ 15 · 🗓 2026-09`
+- [karappo-yu/iina-plugin-danmaku-cosmos](https://github.com/karappo-yu/iina-plugin-danmaku-cosmos) — Niconico/Bilibili/DanDanPlay danmaku with dual CSS & Canvas rendering, Comment Art support and style presets. `⭐ 16 · 🗓 2026-09`
 - [xjbeta/iina-plugin-danmaku](https://github.com/xjbeta/iina-plugin-danmaku) — Overlay danmaku comments on video. `⭐ 24 · 🗓 2026-09`
 
 ### Language Learning
 
 - [afn478/iinatan](https://github.com/afn478/iinatan) — Dictionary lookups and Anki mining inside IINA. `⭐ 9 · 🗓 2026-10`
 - [AkihaZhang/hoshitan](https://github.com/AkihaZhang/hoshitan) — Experimental subtitle dictionary lookup and Anki card creation. `⭐ 4 · 🗓 2026-06`
-- [alyssabedard/mpv2anki](https://github.com/alyssabedard/mpv2anki) — mpv script for Anki flashcard creation: auto-capture subtitles, audio clips and screenshots. `⭐ 20 · 🗓 2025-10`
+- [alyssabedard/mpv2anki](https://github.com/alyssabedard/mpv2anki) — mpv script for Anki flashcard creation: auto-capture subtitles, audio clips and screenshots. `⭐ 20 · 🗓 2025-10` 💤
 - [kerim/iina-clickable-subtitles](https://github.com/kerim/iina-clickable-subtitles) — Click subtitles to look up words with macOS Look Up. `⭐ 16 · 🗓 2025-11`
 - [polyscript-app/polyplugin-release](https://github.com/polyscript-app/polyplugin-release) — PolyScript: dual subtitles, hover dictionary and AI-assisted translation. `⭐ 2 · 🗓 2026-10`
 - [s4ysolutions/iina-verba](https://github.com/s4ysolutions/iina-verba) — Select a word in the subtitles and press A to add it to your Verba vocabulary. `⭐ 0 · 🗓 2026-10`
@@ -158,15 +158,15 @@ The source of the official extension lives in the main repository under [`browse
 
 ## Tools & Scripts
 
-- [kjtsune/embyToLocalPlayer](https://github.com/kjtsune/embyToLocalPlayer) — Play Emby/Jellyfin/Plex content in local players (including IINA) with progress sync-back. `⭐ 1457 · 🗓 2026-10`
-- [LuckyPuppy514/external-player](https://github.com/LuckyPuppy514/external-player) — Browser userscript to send web video to external players. `⭐ 379 · 🗓 2025-11`
+- [kjtsune/embyToLocalPlayer](https://github.com/kjtsune/embyToLocalPlayer) — Play Emby/Jellyfin/Plex content in local players (including IINA) with progress sync-back. `⭐ 1462 · 🗓 2026-10`
+- [LuckyPuppy514/external-player](https://github.com/LuckyPuppy514/external-player) — Browser userscript to send web video to external players. `⭐ 382 · 🗓 2025-11`
 - [n3d1117/acestream-iina](https://github.com/n3d1117/acestream-iina) — Play Ace Streams on macOS with IINA. `⭐ 29 · 🗓 2019-11` 💤
 - [fullmetalsheep/mpv-iina-scripts](https://github.com/fullmetalsheep/mpv-iina-scripts) — mpv Lua scripts made/forked to work with IINA. `⭐ 19 · 🗓 2018-10` 💤
 - [wpdevelopment11/remote_mpv](https://github.com/wpdevelopment11/remote_mpv) — Remote-control mpv/IINA playback over HTTP from your phone or another PC. `⭐ 5 · 🗓 2026-06`
 
 ## Forks
 
-- [xjbeta/iina-plus](https://github.com/xjbeta/iina-plus) — IINA fork with extra danmaku support (bilibili etc.). `⭐ 1391 · 🗓 2026-09`
+- [xjbeta/iina-plus](https://github.com/xjbeta/iina-plus) — IINA fork with extra danmaku support (bilibili etc.). `⭐ 1392 · 🗓 2026-09`
 
 ## Plugin Development
 
@@ -181,7 +181,7 @@ The source of the official extension lives in the main repository under [`browse
 
 - [IINA on Wikipedia](https://en.wikipedia.org/wiki/IINA) — Background and history.
 - [mpv manual](https://mpv.io/manual/master/) — IINA exposes most mpv options in its advanced settings; the mpv manual is the reference for them.
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Powers online-media playback in IINA and many plugins. `⭐ 202293 · 🗓 2026-10`
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Powers online-media playback in IINA and many plugins. `⭐ 204638 · 🗓 2026-10`
 
 ## Contribute
 
