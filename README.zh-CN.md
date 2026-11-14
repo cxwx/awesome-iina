@@ -164,6 +164,7 @@ brew install --cask iina
 - [n3d1117/acestream-iina](https://github.com/n3d1117/acestream-iina) — 在 macOS 上用 IINA 播放 Ace Stream。 `⭐ 30 · 🗓 2019-11` 💤
 - [fullmetalsheep/mpv-iina-scripts](https://github.com/fullmetalsheep/mpv-iina-scripts) — 为 IINA 制作/魔改的 mpv Lua 脚本合集。 `⭐ 19 · 🗓 2018-10` 💤
 - [wpdevelopment11/remote_mpv](https://github.com/wpdevelopment11/remote_mpv) — 通过 HTTP 远程控制 mpv/IINA 播放，手机或其他电脑均可。 `⭐ 5 · 🗓 2026-06`
+- [CogentRedTester/mpv-sub-select](https://github.com/CogentRedTester/mpv-sub-select) — mpv Lua 脚本，按音轨语言、轨道标题和自定义条件自动选择字幕轨道；放入 IINA 的 mpv 配置目录即可生效。
 
 ## Fork 版本
 

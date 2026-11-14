@@ -163,6 +163,7 @@ The source of the official extension lives in the main repository under [`browse
 - [n3d1117/acestream-iina](https://github.com/n3d1117/acestream-iina) — Play Ace Streams on macOS with IINA. `⭐ 30 · 🗓 2019-11` 💤
 - [fullmetalsheep/mpv-iina-scripts](https://github.com/fullmetalsheep/mpv-iina-scripts) — mpv Lua scripts made/forked to work with IINA. `⭐ 19 · 🗓 2018-10` 💤
 - [wpdevelopment11/remote_mpv](https://github.com/wpdevelopment11/remote_mpv) — Remote-control mpv/IINA playback over HTTP from your phone or another PC. `⭐ 5 · 🗓 2026-06`
+- [CogentRedTester/mpv-sub-select](https://github.com/CogentRedTester/mpv-sub-select) — mpv Lua script to auto-select subtitle tracks by audio language, track titles and custom Lua conditions; works in IINA via the mpv config directory.
 
 ## Forks
 
