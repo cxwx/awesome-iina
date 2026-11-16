@@ -35,7 +35,7 @@ English | [简体中文](README.zh-CN.md) (community translation — may lag beh
 ## Official Resources
 
 - [iina.io](https://iina.io) — Official website.
-- [iina/iina](https://github.com/iina/iina) — Source code of IINA. `⭐ 47062 · 🗓 2026-11`
+- [iina/iina](https://github.com/iina/iina) — Source code of IINA. `⭐ 47141 · 🗓 2026-11`
 - [Plugin Center](https://iina.io/plugins/) — Official curated plugin directory, installed directly from IINA's plugin manager.
 - [docs.iina.io](https://docs.iina.io/) — Official plugin API documentation.
 - [GitHub Discussions](https://github.com/iina/iina/discussions) — Q&A, feature ideas and release feedback.
@@ -65,12 +65,12 @@ Plugins are written in JavaScript, packaged as `.iinaplgz`, and installed from I
 
 ### Media Servers & Streaming
 
-- [ada-bee/jellyfin-iina](https://github.com/ada-bee/jellyfin-iina) — Browse and watch content from your Jellyfin server. `⭐ 31 · 🗓 2026-10`
+- [ada-bee/jellyfin-iina](https://github.com/ada-bee/jellyfin-iina) — Browse and watch content from your Jellyfin server. `⭐ 30 · 🗓 2026-10`
 - [ada-bee/youtube-iina](https://github.com/ada-bee/youtube-iina) — Browse and watch YouTube videos in a sidebar. `⭐ 10 · 🗓 2026-02`
 - [Arnav12S/iina-contentplay](https://github.com/Arnav12S/iina-contentplay) — Search movies/series, resolve Real-Debrid streams via Stremio, then play a whole season as a playlist. `⭐ 5 · 🗓 2026-11`
 - [DTTerastar/iina-plugin-channels](https://github.com/DTTerastar/iina-plugin-channels) — IPTV channel browser: M3U playlists with search, groups and an XMLTV now/next guide. `⭐ 6 · 🗓 2026-11`
-- [mhajder/iina-jellyfin](https://github.com/mhajder/iina-jellyfin) — Jellyfin media browser sidebar with automatic subtitle downloading. `⭐ 90 · 🗓 2026-11`
-- [ozykhan/iina-airplay](https://github.com/ozykhan/iina-airplay) — Cast the current file to an Apple TV over AirPlay; IINA stays the remote. `⭐ 40 · 🗓 2026-11`
+- [mhajder/iina-jellyfin](https://github.com/mhajder/iina-jellyfin) — Jellyfin media browser sidebar with automatic subtitle downloading. `⭐ 93 · 🗓 2026-11`
+- [ozykhan/iina-airplay](https://github.com/ozykhan/iina-airplay) — Cast the current file to an Apple TV over AirPlay; IINA stays the remote. `⭐ 44 · 🗓 2026-11`
 - [qydxyx/iina-webdav](https://github.com/qydxyx/iina-webdav) — Connect to a WebDAV server, browse media, and add files or folders to the playlist. `⭐ 0 · 🗓 2026-10`
 
 ### Subtitles & Captions
@@ -78,20 +78,20 @@ Plugins are written in JavaScript, packaged as `.iinaplgz`, and installed from I
 - [bbeny123/iina-save-subs-with-delay](https://github.com/bbeny123/iina-save-subs-with-delay) — Save subtitles with the current delay baked in. `⭐ 2 · 🗓 2026-02`
 - [Robpol86/iina-file-name-search](https://github.com/Robpol86/iina-file-name-search) — Search the currently playing file's name on a configurable website. `⭐ 2 · 🗓 2025-09` 💤
 - [isparkyou-github/iina-realtime-speech-translator](https://github.com/isparkyou-github/iina-realtime-speech-translator) — Real-time speech transcription and translation. `⭐ 5 · 🗓 2026-06`
-- [janwee-sha/SubTandem](https://github.com/janwee-sha/SubTandem) — Real-time AI-powered bilingual subtitle translation. `⭐ 5 · 🗓 2026-10`
+- [janwee-sha/SubTandem](https://github.com/janwee-sha/SubTandem) — Real-time AI-powered bilingual subtitle translation. `⭐ 5 · 🗓 2026-11`
 - [wilbeibi/iina-plugin-assrt](https://github.com/wilbeibi/iina-plugin-assrt) — Search and auto-download Chinese subtitles from assrt.net (伪射手), with alass timing correction. `⭐ 0 · 🗓 2026-07`
 - [yuxiqian/whisperina](https://github.com/yuxiqian/whisperina) — Generate subtitles locally with OpenAI Whisper models. `⭐ 14 · 🗓 2025-06` 💤
 
 ### Playback & Control
 
 - [alexkuang0/iina-key-binding-youtube](https://github.com/alexkuang0/iina-key-binding-youtube) — Key bindings modeled on YouTube's keyboard shortcuts. `⭐ 11 · 🗓 2023-08` 💤
-- [aminozuur/iina-thumbnails](https://github.com/aminozuur/iina-thumbnails) — Clickable thumbnails for each video. `⭐ 4 · 🗓 2026-10`
-- [bbeny123/iina-jump-to-frame](https://github.com/bbeny123/iina-jump-to-frame) — Frame-accurate navigation by frame number. `⭐ 15 · 🗓 2026-02`
+- [aminozuur/iina-thumbnails](https://github.com/aminozuur/iina-thumbnails) — Clickable thumbnails for each video. `⭐ 4 · 🗓 2026-11`
+- [bbeny123/iina-jump-to-frame](https://github.com/bbeny123/iina-jump-to-frame) — Frame-accurate navigation by frame number. `⭐ 16 · 🗓 2026-02`
 - [D0CA/iina-cinemode](https://github.com/D0CA/iina-cinemode) — Fullscreen pause overlay, skip intro, and an optional Stremio next-episode shortcut. `⭐ 4 · 🗓 2026-10`
 - [glechic/iina-bilingual-audio](https://github.com/glechic/iina-bilingual-audio) — Play two audio tracks with left/right channel separation for bilingual viewing. `⭐ 2 · 🗓 2026-07`
 - [leo-mathurin/iina-nightshift-fs](https://github.com/leo-mathurin/iina-nightshift-fs) — Disable macOS Night Shift while in fullscreen. `⭐ 2 · 🗓 2026-05`
 - [nastarandarjani/iina-pip-toggle](https://github.com/nastarandarjani/iina-pip-toggle) — Toggle Picture-in-Picture to fullscreen. `⭐ 9 · 🗓 2026-04`
-- [pangziqiang/iina-auto-skip](https://github.com/pangziqiang/iina-auto-skip) — Automatically skip intro and outro sections with a drag-to-set overlay. `⭐ 4 · 🗓 2026-10`
+- [pangziqiang/iina-auto-skip](https://github.com/pangziqiang/iina-auto-skip) — Automatically skip intro and outro sections with a drag-to-set overlay. `⭐ 5 · 🗓 2026-10`
 - [pparanoiidd/iina-skip-intro](https://github.com/pparanoiidd/iina-skip-intro) — Detect and skip intros, recaps and credits. `⭐ 21 · 🗓 2026-10`
 - [Tommy12356F/iina-hold-to-speed](https://github.com/Tommy12356F/iina-hold-to-speed) — Hold Space to play at 2× speed, just like YouTube. `⭐ 15 · 🗓 2026-10`
 - [treehog2/iina-absave-plugin](https://github.com/treehog2/iina-absave-plugin) — Save AB loops. `⭐ 5 · 🗓 2025-11` 💤
@@ -102,15 +102,15 @@ Plugins are written in JavaScript, packaged as `.iinaplgz`, and installed from I
 - [5thDimensionalVader/recorder-iina](https://github.com/5thDimensionalVader/recorder-iina) — Clip a video using ffmpeg. `⭐ 13 · 🗓 2026-07`
 - [bbeny123/iina-hdr-screenshot](https://github.com/bbeny123/iina-hdr-screenshot) — Capture HDR screenshots using ffmpeg. `⭐ 5 · 🗓 2026-02`
 - [Fhlisherman/iina-video-upscaler](https://github.com/Fhlisherman/iina-video-upscaler) — GPU-accelerated upscaling. `⭐ 24 · 🗓 2026-04`
-- [Gabe-LS/iina-audio-normalize](https://github.com/Gabe-LS/iina-audio-normalize) — Automatic audio normalization (peak and EBU R128 loudness modes). `⭐ 5 · 🗓 2026-05`
+- [Gabe-LS/iina-audio-normalize](https://github.com/Gabe-LS/iina-audio-normalize) — Automatic audio normalization (peak and EBU R128 loudness modes). `⭐ 6 · 🗓 2026-05`
 - [karthisnk/multi-cutter-iina](https://github.com/karthisnk/multi-cutter-iina) — Cut multiple clips with ffmpeg, with batch clipping, vertical clips, format selection and preview. `⭐ 14 · 🗓 2026-01`
 - [lenadweb/iina-plugin-keystone](https://github.com/lenadweb/iina-plugin-keystone) — Vertical/horizontal keystone correction for projectors, adjusted live. `⭐ 2 · 🗓 2026-09`
-- [yorkyang2333/iina-AnimeEnhancer](https://github.com/yorkyang2333/iina-AnimeEnhancer) — Real-time anime upscaling via Anime4K and AnimeJaNai shaders, controlled from a sidebar tab. `⭐ 37 · 🗓 2026-10`
+- [yorkyang2333/iina-AnimeEnhancer](https://github.com/yorkyang2333/iina-AnimeEnhancer) — Real-time anime upscaling via Anime4K and AnimeJaNai shaders, controlled from a sidebar tab. `⭐ 36 · 🗓 2026-11`
 - [fetzu/iina-plugin-vr2d](https://github.com/fetzu/iina-plugin-vr2d) — Watch 3D VR videos (180°/360°, SBS/OU, equirectangular or fisheye) as a flat 2D image you can pan and zoom. `⭐ 4 · 🗓 2026-08`
 
 ### Playlists & Library
 
-- [aminozuur/iina-bookmarks-pro](https://github.com/aminozuur/iina-bookmarks-pro) — Bookmark moments with thumbs, jump between them, browse every video in a library, and save 5/10/30-second clips with ffmpeg. `⭐ 2 · 🗓 2026-10`
+- [aminozuur/iina-bookmarks-pro](https://github.com/aminozuur/iina-bookmarks-pro) — Bookmark moments with thumbs, jump between them, browse every video in a library, and save 5/10/30-second clips with ffmpeg.
 - [CatCodeDanix/iina-playlist-pro](https://github.com/CatCodeDanix/iina-playlist-pro) — Manage local and online playlists. `⭐ 16 · 🗓 2026-10`
 - [dotWee/iina-playlist-sortings](https://github.com/dotWee/iina-playlist-sortings) — Extra playlist sorting options. `⭐ 9 · 🗓 2026-08`
 - [HowDidTheCatGetSoFat/iina-detached-playlist](https://github.com/HowDidTheCatGetSoFat/iina-detached-playlist) — Show the playlist in its own floating window. `⭐ 8 · 🗓 2026-07`
@@ -122,8 +122,8 @@ Plugins are written in JavaScript, packaged as `.iinaplgz`, and installed from I
 
 ### Danmaku
 
-- [karappo-yu/iina-plugin-danmaku-cosmos](https://github.com/karappo-yu/iina-plugin-danmaku-cosmos) — Niconico/Bilibili/DanDanPlay danmaku with dual CSS & Canvas rendering, Comment Art support and style presets. `⭐ 17 · 🗓 2026-11`
-- [xjbeta/iina-plugin-danmaku](https://github.com/xjbeta/iina-plugin-danmaku) — Overlay danmaku comments on video. `⭐ 24 · 🗓 2026-09`
+- [karappo-yu/iina-plugin-danmaku-cosmos](https://github.com/karappo-yu/iina-plugin-danmaku-cosmos) — Niconico/Bilibili/DanDanPlay danmaku with dual CSS & Canvas rendering, Comment Art support and style presets. `⭐ 18 · 🗓 2026-11`
+- [xjbeta/iina-plugin-danmaku](https://github.com/xjbeta/iina-plugin-danmaku) — Overlay danmaku comments on video. `⭐ 25 · 🗓 2026-09`
 
 ### Language Learning
 
@@ -158,12 +158,12 @@ The source of the official extension lives in the main repository under [`browse
 
 ## Tools & Scripts
 
-- [kjtsune/embyToLocalPlayer](https://github.com/kjtsune/embyToLocalPlayer) — Play Emby/Jellyfin/Plex content in local players (including IINA) with progress sync-back. `⭐ 1460 · 🗓 2026-11`
+- [kjtsune/embyToLocalPlayer](https://github.com/kjtsune/embyToLocalPlayer) — Play Emby/Jellyfin/Plex content in local players (including IINA) with progress sync-back. `⭐ 1465 · 🗓 2026-11`
 - [LuckyPuppy514/external-player](https://github.com/LuckyPuppy514/external-player) — Browser userscript to send web video to external players. `⭐ 382 · 🗓 2025-11`
 - [n3d1117/acestream-iina](https://github.com/n3d1117/acestream-iina) — Play Ace Streams on macOS with IINA. `⭐ 30 · 🗓 2019-11` 💤
 - [fullmetalsheep/mpv-iina-scripts](https://github.com/fullmetalsheep/mpv-iina-scripts) — mpv Lua scripts made/forked to work with IINA. `⭐ 19 · 🗓 2018-10` 💤
 - [wpdevelopment11/remote_mpv](https://github.com/wpdevelopment11/remote_mpv) — Remote-control mpv/IINA playback over HTTP from your phone or another PC. `⭐ 5 · 🗓 2026-06`
-- [CogentRedTester/mpv-sub-select](https://github.com/CogentRedTester/mpv-sub-select) — mpv Lua script to auto-select subtitle tracks by audio language, track titles and custom Lua conditions; works in IINA via the mpv config directory.
+- [CogentRedTester/mpv-sub-select](https://github.com/CogentRedTester/mpv-sub-select) — mpv Lua script to auto-select subtitle tracks by audio language, track titles and custom Lua conditions; works in IINA via the mpv config directory. `⭐ 135 · 🗓 2025-04` 💤
 
 ## Forks
 
@@ -182,7 +182,7 @@ The source of the official extension lives in the main repository under [`browse
 
 - [IINA on Wikipedia](https://en.wikipedia.org/wiki/IINA) — Background and history.
 - [mpv manual](https://mpv.io/manual/master/) — IINA exposes most mpv options in its advanced settings; the mpv manual is the reference for them.
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Powers online-media playback in IINA and many plugins. `⭐ 206362 · 🗓 2026-11`
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Powers online-media playback in IINA and many plugins. `⭐ 208248 · 🗓 2026-11`
 
 ## Contribute
 
